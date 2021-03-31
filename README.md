@@ -36,7 +36,9 @@ Operador de produção.
   * SASS
   * FlexBox
   * Grid-Layout
-*Jquery
+* Javascript
+  * Jquery
+  * Ajax
 
 ### UI Kits
 * Materialize.
@@ -46,8 +48,8 @@ Operador de produção.
 * Vue.js
 * React Native
 
-### Linguagens de Programação
-* JavaScript.
+### Back-end
+* Node.js
 * PHP.
 * C#.
 
@@ -58,7 +60,7 @@ Operador de produção.
 * Git.
 
 ## Projetos
-* [Imobiliaria](https://ze-aglailson.github.io/Imobiliaria/)
+* [Imobiliaria](https://ze-aglailson.github.io/IpuaOnline/)
 
 
 ## Cursos Completos
