@@ -45,13 +45,11 @@ Operador de produção.
 * Bootstrap.
 
 ### Frameworks Front-end
-* Vue.js
-* React Native
+* React
 
 ### Back-end
 * Node.js
-* PHP.
-* C#.
+* PHP
 
 ### Banco de Dados
 * MySQL.
