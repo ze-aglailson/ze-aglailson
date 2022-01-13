@@ -1,9 +1,9 @@
-# Site One Page
+# Seja bem vindo ao meu Portfólio profissional
 * Status
   * Em Andamento
 * Preview
-  * https://ze-aglailson.github.io/Site-one-page/
-* Skills
+  * https://ze-aglailson.github.io/ze-aglailson/
+* Skills utilizadas no projeto
   * HTML 
   * CSS  
     * Flex-box
