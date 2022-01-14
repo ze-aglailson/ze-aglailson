@@ -11,7 +11,7 @@
 
 .container-cabecalho{
     width: 100%;
-    padding: v.$padding-container;
+    padding: 5px 12px;
     position: fixed;
     z-index: 2;
 
@@ -27,19 +27,21 @@
             justify-content: center;
             align-items: center;
             a{
-                color: v.$cor-branco;
+                color: #0af;
+                font-size: .8em;
             }
         }
 
         .logo-escuro{
             a{
-                color: v.$cor-secundaria;
+                color: #0af;
+                font-size: .8em;
             }
         }
 
         .btn-menu{
-            width: 25px;
-            height: 20px;
+            width: 23px;
+            height: 18px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -53,19 +55,22 @@
                 display: block;
                 width: 100%;
                 height: 4px;
-                background-color:v.$cor-branco;
+                background-color:#0af;
                 transition: .3s;
             }
         }
         .btn-menu-escuro{
             
             .linha-btn{
-                background-color: v.$cor-secundaria;
+                background-color: #0af
             }
         }
 
         .btn-menu-aberto{
             justify-content: center;
+            .linha-btn{
+                background-color: #FFF
+            }
             .linha-btn-2{
                 margin-top: -4px;
                 transform: translateX(-100%);
@@ -116,12 +121,12 @@
                     display: block;
                     padding: 5px 30px;
                     font-size: .9em;
-                    color: v.$cor-secundaria;
+                    color: #0af;
                 }
             }
             li.item:hover a{
-                color: v.$cor-branco;
-                background-color: v.$cor-primaria;
+                color: #FFF;
+                background-color: #00aaff;
             }
         }
     }
